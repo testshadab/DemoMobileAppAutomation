@@ -1,0 +1,210 @@
+tomthumb:
+  qa2:
+
+#    ios:
+#      USERNAME: test.wallet.ios@hostux.ninja
+#      PASSWORD: testpwd1
+#    android:
+#      USERNAME: test.wallet.and@hostux.ninja
+#      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: 75019
+    ZIPCODE_DEFAULT: "75019"
+    USERNAME_REGULAR: swy10@mailinator.com
+
+
+vons:
+  qa2:
+    ios:
+      USERNAME: test.wallet.ios@hostux.ninja
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.wallet.and@hostux.ninja
+      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: 92110
+    ZIPCODE_DEFAULT: "92110"
+    USERNAME_REGULAR: swy10@mailinator.com
+
+
+acme:
+  qa2:
+    ios:
+      USERNAME: test.wallet.ios@hostux.ninja
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.wallet.and@hostux.ninja
+      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: 19057
+    ZIPCODE_DEFAULT: "19057"
+    USERNAME_REGULAR: swy10@mailinator.com
+
+
+jewelosco:
+  qa2:
+    ios:
+      USERNAME: test.wallet.ios@hostux.ninja
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.wallet.and@hostux.ninja
+      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: 60640
+    ZIPCODE_DEFAULT: "60640"
+    USERNAME_REGULAR: swy10@mailinator.com
+
+  prod:
+    ios:
+      USERNAME: test.wallet.ios@hostux.ninja
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.wallet.and@hostux.ninja
+      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: 60640
+    ZIPCODE_DEFAULT: "60640"
+    USERNAME_REGULAR: swy10@mailinator.com
+
+
+pavilions:
+  qa2:
+    ios:
+      USERNAME: test.wallet.ios@hostux.ninja
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.wallet.and@hostux.ninja
+      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: 90069
+    ZIPCODE_DEFAULT: 90069
+    USERNAME_REGULAR: swy10@mailinator.com
+
+  prod:
+    ios:
+      USERNAME: test.wallet.ios@hostux.ninja
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.wallet.and@hostux.ninja
+      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: 90069
+    ZIPCODE_DEFAULT: 90069
+    USERNAME_REGULAR: swy10@mailinator.com
+
+
+randalls:
+  qa2:
+    ios:
+      USERNAME: test.wallet.ios@hostux.ninja
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.wallet.and@hostux.ninja
+      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: 77024
+    ZIPCODE_DEFAULT: "77024"
+    USERNAME_REGULAR: swy10@mailinator.com
+
+
+safeway:
+  qa2:
+    ios:
+      USERNAME: test.wallet.ios@hostux.ninja
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.wallet.and@hostux.ninja
+      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: 94566
+    ZIPCODE_DEFAULT: "94566"
+    USERNAME_REGULAR: swy10@mailinator.com
+  prod:
+    ios:
+      USERNAME: test.wallet.ios@hostux.ninja
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.wallet.and@hostux.ninja
+      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: 94566
+    ZIPCODE_DEFAULT: "94566"
+    USERNAME_REGULAR: swy10@mailinator.com
+
+
+shaws:
+  qa2:
+    ios:
+      USERNAME: test.wallet.ios@hostux.ninja
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.wallet.and@hostux.ninja
+      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: 03885
+    ZIPCODE_DEFAULT: "03885"
+    USERNAME_REGULAR: swy10@mailinator.com
+
+
+starmarket:
+  qa2:
+    ios:
+      USERNAME: test.wallet.ios@hostux.ninja
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.wallet.and@hostux.ninja
+      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: 02199
+    ZIPCODE_DEFAULT: "02199"
+    USERNAME_REGULAR: swy10@mailinator.com
+
+carrsqc:
+  qa2:
+    ios:
+      USERNAME: test.wallet.ios@hostux.ninja
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.wallet.and@hostux.ninja
+      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: 99645
+    ZIPCODE_DEFAULT: 99645
+    USERNAME_REGULAR: swy10@mailinator.com
+
+  prod:
+    ios:
+      USERNAME: test.wallet.ios@hostux.ninja
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.wallet.and@hostux.ninja
+      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: 99645
+    ZIPCODE_DEFAULT: 99645
+    USERNAME_REGULAR: swy10@mailinator.com
+
+albertsons:
+  qa2:
+    ios:
+      USERNAME: test.wallet.ios@hostux.ninja
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.wallet.and@hostux.ninja
+      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: "83713"
+    ZIPCODE_DEFAULT: "83713"
+    USERNAME_REGULAR: swy10@mailinator.com
+
+  prod:
+    ios:
+      USERNAME: test.wallet.ios@hostux.ninja
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.wallet.and@hostux.ninja
+      PASSWORD: testpwd1
+
+    ZIPCODE_REGULAR: "83713"
+    ZIPCODE_DEFAULT: "83713"
+    USERNAME_REGULAR: swy10@mailinator.com

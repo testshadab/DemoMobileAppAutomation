@@ -1,0 +1,18 @@
+{
+  "campaign_key":"test-push2-cc",
+  "target_type":"customer_id",
+  "all_devices":true,
+  "messages":[
+    {
+      "target":"5571751632495669505",
+      "alert":"UMA iOS Push Notification test",
+      "ios":{
+        "extra":{
+          "pushCampaign":"98765498998",
+          "pushSection":"Rewards"
+
+        }
+      }
+    }
+  ]
+}
